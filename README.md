@@ -9,6 +9,9 @@
 корректной работы.
 ## Пример 
 ```python
+TOKEN = 'example'
+```
+```python
 phrases = {
      1 : 'phrase 1',
      2 : 'phrase 2',
